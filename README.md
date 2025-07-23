@@ -6,11 +6,11 @@ Skin Sight AI is a deep learning-based skin disease classification system that l
 
 🚀 Features
 Disease Classification: Automatically classifies dermatoscopic images into five common skin conditions:
-#Actinic Keratosis
-#Dermatofibroma
-#Melanoma
-#Seborrheic Keratosis
-#Squamous Cell Carcinoma
+* Actinic Keratosis
+* Dermatofibroma
+* Melanoma
+* Seborrheic Keratosis
+* Squamous Cell Carcinoma
 
 #Image Segmentation: Isolates skin lesions from surrounding tissue to focus analysis.
 #Feature Extraction: Analyzes color, texture, and border features to enhance classification accuracy.

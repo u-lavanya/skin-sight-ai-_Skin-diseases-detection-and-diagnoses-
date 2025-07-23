@@ -28,15 +28,15 @@ Disease Classification: Automatically classifies dermatoscopic images into five 
 
 
 📂 Dataset
-HAM10000 Dataset: Utilizes the HAM10000 dataset, which contains 10,015 dermatoscopic images of common pigmented skin lesions.
-Preprocessing: Images are preprocessed and augmented to ensure class balance and diversity, enhancing model generalization.
+- HAM10000 Dataset: Utilizes the HAM10000 dataset, which contains 10,015 dermatoscopic images of common pigmented skin lesions.
+- Preprocessing: Images are preprocessed and augmented to ensure class balance and diversity, enhancing model generalization.
 SpringerLink
 
 📈 Model Architecture
-Convolutional Neural Networks (CNNs): Employs CNNs for feature extraction and classification tasks.
-Segmentation Module: Incorporates image segmentation to isolate lesions, improving focus on relevant features.
-Feature Extraction: Analyzes key features such as color, texture, and border irregularities.
-Severity Estimation: Implements a module to estimate the severity of detected conditions.
+- Convolutional Neural Networks (CNNs): Employs CNNs for feature extraction and classification tasks.
+- Segmentation Module: Incorporates image segmentation to isolate lesions, improving focus on relevant features.
+- Feature Extraction: Analyzes key features such as color, texture, and border irregularities.
+- Severity Estimation: Implements a module to estimate the severity of detected conditions.
 
 🌍 Deployment
 Skin Sight AI is optimized for deployment in remote and resource-limited settings, providing accessible diagnostic support where traditional dermatological services may be unavailable.

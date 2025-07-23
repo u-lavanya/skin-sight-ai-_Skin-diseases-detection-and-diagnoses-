@@ -12,19 +12,19 @@ Disease Classification: Automatically classifies dermatoscopic images into five 
 * Seborrheic Keratosis
 * Squamous Cell Carcinoma
 
-#Image Segmentation: Isolates skin lesions from surrounding tissue to focus analysis.
-#Feature Extraction: Analyzes color, texture, and border features to enhance classification accuracy.
-#Data Augmentation: Applies techniques to improve model robustness across diverse skin tones and imaging conditions.
-Severity Estimation: Provides an estimation of disease severity to aid in clinical decision-making.
-Deployment Ready: Designed for use in remote and resource-limited settings, facilitating accessible dermatological diagnostics.
+- Image Segmentation: Isolates skin lesions from surrounding tissue to focus analysis.
+- Feature Extraction: Analyzes color, texture, and border features to enhance classification accuracy.
+- Data Augmentation: Applies techniques to improve model robustness across diverse skin tones and imaging conditions.
+- Severity Estimation: Provides an estimation of disease severity to aid in clinical decision-making.
+- Deployment Ready: Designed for use in remote and resource-limited settings, facilitating accessible dermatological diagnostics.
 
 🧰 Tech Stack
-Python
-TensorFlow / Keras
-OpenCV (for image segmentation)
-NumPy
-Matplotlib
-Scikit-learn
+* Python
+* TensorFlow / Keras
+* OpenCV (for image segmentation)
+* NumPy
+* Matplotlib
+* Scikit-learn
 
 
 📂 Dataset

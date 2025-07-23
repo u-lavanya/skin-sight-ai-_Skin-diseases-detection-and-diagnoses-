@@ -39,4 +39,4 @@ SpringerLink
 - Severity Estimation: Implements a module to estimate the severity of detected conditions.
 
 🌍 Deployment
-Skin Sight AI is optimized for deployment in remote and resource-limited settings, providing accessible diagnostic support where traditional dermatological services may be unavailable.
+- Skin Sight AI is optimized for deployment in remote and resource-limited settings, providing accessible diagnostic support where traditional dermatological services may be unavailable.
